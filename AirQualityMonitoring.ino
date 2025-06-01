@@ -1,5 +1,5 @@
 // Include libraries
-#define BLYNK_TEMPLATE_ID "TMPL3mZaP1sc_"  // Your Blynk Template ID
+#define BLYNK_TEMPLATE_ID ""  // Your Blynk Template ID
 #define BLYNK_TEMPLATE_NAME "Air Quality Monitoring"  // Blynk Template Name
 
 #include <ESP8266WiFi.h>
