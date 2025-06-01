@@ -12,7 +12,7 @@ char ssid[] = "MSI 1624";   // Your WiFi SSID
 char pass[] = "sanjay123";  // Your WiFi password
 
 // Blynk Auth Token
-char auth[] = "pK21mVHtNJJZB86DwlLD8PlCrtjZIdmv";  // Your Blynk Auth Token
+char auth[] = "";  // Your Blynk Auth Token
 
 // Sensor setup
 #define DHTPIN 4          // GPIO2 on NodeMCU for DHT11 sensor
